@@ -16,7 +16,6 @@ As a Management Assistant at Prefeitura Municipal de São José dos Campos since
 
 ## I’m currently learning ...
 - Web Development: I completed, on July, the GoStack Bootcamp of Rocketseat. We use NodeJS, ReactJS, and React Native and them whole ecosystem, from zero to deployment. And I am almost completing CS50x of Harvard University, that covers concepts like abstraction, algorithms, data structures, encapsulation, resource management, security, and software engineering, using various languages, including C, Python, SQL, and JavaScript. Besides that, I am currently studyig Profissional DevOps of IGTI. A Bootcamp that approaches most used fundamental concepts, practices, and tools in DevOps movement.
-<br>
 - Production Engineering: I am in the last semester of graduation at ETEP Faculdades in São José dos Campos, SP.
 <hr>
 
