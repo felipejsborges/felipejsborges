@@ -1,8 +1,6 @@
 <div align="center">
   <img width="auto" src="./intro.jpg">
-  <h1>Felipe Borges</h1>
-	<img width="32px" style="border-radius: 16px;" src="./assets/profile.jpg" alt="Felipe Borges>
-										       <br>
+  <h1>Felipe Borges</h1>	
 </div>
 
 ## 👨‍💻 Who am I?
