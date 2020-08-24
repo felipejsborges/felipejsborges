@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="auto" src="intro.jpg">
+  <img width="auto" src="./intro.jpg">
   <h1>Felipe Borges</h1>
 </div>
 
@@ -20,13 +20,27 @@ As a Management Assistant at Prefeitura Municipal de São José dos Campos since
 <hr>
 
 ## How to reach me...
+
+<a href="https://www.linkedin.com/in/felipejsborges">
+	<i class="fab fa-linkedin"></i>
+</a> • 
+
+<a href="https://www.linkedin.com/in/felipejsborges">
+	<i class="fab fa-youtube"></i>
+</a> • 
+
+<a href="https://www.linkedin.com/in/felipejsborges">
+	<i class="fab fa-whatsapp"></i>
+</a> • 
+
+<a href="https://www.linkedin.com/in/felipejsborges">
+	<i class="fas fa-envelope"></i>
+</a>
+
 [LinkedIn](https://www.linkedin.com/in/felipejsborges) | [Youtube](https://www.youtube.com/channel/UC6tN_loxPGOP30LWNbJM7rg) | [WhatsApp](https://wa.me/+55012996477129) | [E-mail](mailto:felipejsborges@outlook.com)
 
 
 <!-- Pendencies
-- [ ] - https://blog.rocketseat.com.br/como-fazer-um-bom-readme/
-- [ ] - https://blog.rocketseat.com.br/o-que-e-readme-e-porque-e-tao-importante/
-- [ ] - https://shields.io/
 - [ ] - Add emojis
 - [ ] - Add badges
 - [ ] - Add a Summary
