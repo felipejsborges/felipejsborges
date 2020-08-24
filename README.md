@@ -22,19 +22,19 @@ As a Management Assistant at Prefeitura Municipal de São José dos Campos since
 ## How to reach me...
 
 <a href="https://www.linkedin.com/in/felipejsborges">
-	<img style="border-radius: 50%; margin-left: 48px" width="32px" src="./assets/linkedin.svg" alt="LinkedIn">
-</a>   
+	<img style="border-radius: 50%;" width="32px" src="./assets/linkedin.svg" alt="LinkedIn">
+</a>&nbsp
 
 <a href="https://www.youtube.com/channel/UC6tN_loxPGOP30LWNbJM7rg">
-	<img style="border-radius: 50%; margin-left: 48px" width="32px" src="./assets/youtube.svg" alt="YouTube">
-</a>   
+	<img style="border-radius: 50%;" width="32px" src="./assets/youtube.svg" alt="YouTube">
+</a>&nbsp
 
 <a href="https://wa.me/+55012996477129">
-	<img style="border-radius: 50%; margin-left: 48px" width="32px" src="./assets/whatsapp.svg" alt="WhatsApp">
-</a>   
+	<img style="border-radius: 50%;" width="32px" src="./assets/whatsapp.svg" alt="WhatsApp">
+</a>&nbsp
 
 <a href="mailto:felipejsborges@outlook.com">
-	<img style="border-radius: 50%; margin-left: 48px" width="32px" src="./assets/mail.svg" alt="E-mail">
+	<img style="border-radius: 50%;" width="32px" src="./assets/mail.svg" alt="E-mail">
 </a>
 
 <!-- Pendencies
