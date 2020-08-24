@@ -21,20 +21,20 @@ As a Management Assistant at Prefeitura Municipal de São José dos Campos since
 
 ## How to reach me...
 
-<a style="border-radius: 50%; width: 32px;" href="https://www.linkedin.com/in/felipejsborges">
-	<img src="./assets/linkedin.svg" alt="LinkedIn">
-</a> • 
+<a href="https://www.linkedin.com/in/felipejsborges">
+	<img style="border-radius: 50%" width="32px" src="./assets/linkedin.svg" alt="LinkedIn">
+</a>   
 
-<a style="border-radius: 50%; width: 32px;" href="https://www.youtube.com/channel/UC6tN_loxPGOP30LWNbJM7rg">
-	<img src="./assets/youtube.svg" alt="YouTube">
-</a> • 
+<a href="https://www.youtube.com/channel/UC6tN_loxPGOP30LWNbJM7rg">
+	<img style="border-radius: 50%" width="32px" src="./assets/youtube.svg" alt="YouTube">
+</a>   
 
-<a style="border-radius: 50%; width: 32px;" href="https://wa.me/+55012996477129">
-	<img src="./assets/whatsapp.svg" alt="WhatsApp">
-</a> • 
+<a href="https://wa.me/+55012996477129">
+	<img style="border-radius: 50%" width="32px" src="./assets/whatsapp.svg" alt="WhatsApp">
+</a>   
 
-<a style="border-radius: 50%; width: 32px;" href="mailto:felipejsborges@outlook.com">
-	<img src="./assets/mail.svg" alt="E-mail">
+<a href="mailto:felipejsborges@outlook.com">
+	<img style="border-radius: 50%" width="32px" src="./assets/mail.svg" alt="E-mail">
 </a>
 
 [LinkedIn](https://www.linkedin.com/in/felipejsborges) | [Youtube](https://www.youtube.com/channel/UC6tN_loxPGOP30LWNbJM7rg) | [WhatsApp](https://wa.me/+55012996477129) | [E-mail](mailto:felipejsborges@outlook.com)
