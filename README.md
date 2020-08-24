@@ -22,23 +22,20 @@ As a Management Assistant at Prefeitura Municipal de São José dos Campos since
 ## How to reach me...
 
 <a href="https://www.linkedin.com/in/felipejsborges">
-	<img style="border-radius: 50%" width="32px" src="./assets/linkedin.svg" alt="LinkedIn">
+	<img style="border-radius: 50%; margin-left: 16px" width="32px" src="./assets/linkedin.svg" alt="LinkedIn">
 </a>   
 
 <a href="https://www.youtube.com/channel/UC6tN_loxPGOP30LWNbJM7rg">
-	<img style="border-radius: 50%" width="32px" src="./assets/youtube.svg" alt="YouTube">
+	<img style="border-radius: 50%; margin-left: 16px" width="32px" src="./assets/youtube.svg" alt="YouTube">
 </a>   
 
 <a href="https://wa.me/+55012996477129">
-	<img style="border-radius: 50%" width="32px" src="./assets/whatsapp.svg" alt="WhatsApp">
+	<img style="border-radius: 50%; margin-left: 16px" width="32px" src="./assets/whatsapp.svg" alt="WhatsApp">
 </a>   
 
 <a href="mailto:felipejsborges@outlook.com">
-	<img style="border-radius: 50%" width="32px" src="./assets/mail.svg" alt="E-mail">
+	<img style="border-radius: 50%; margin-left: 16px" width="32px" src="./assets/mail.svg" alt="E-mail">
 </a>
-
-[LinkedIn](https://www.linkedin.com/in/felipejsborges) | [Youtube](https://www.youtube.com/channel/UC6tN_loxPGOP30LWNbJM7rg) | [WhatsApp](https://wa.me/+55012996477129) | [E-mail](mailto:felipejsborges@outlook.com)
-
 
 <!-- Pendencies
 - [ ] - Add emojis
