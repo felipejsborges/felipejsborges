@@ -8,15 +8,27 @@ A computer science, technology, games, movies, series, books and music lover.
 <hr>
 
 ## 💼 What am I currently working on?
-As a Management Assistant at Prefeitura Municipal de São José dos Campos since September 2018. My assignments:
-- Customer Service: Contact with a diverse audience, from different social classes and needs.
-- Tasks Automation: Digital procedures that were done manually were automated by creating programs using JavaScript, Python, VBA and Auto Hotkey.
-- Problem Solving: Several types of audience requests, and barriers of a system public. Troubleshooting is routine.
+As a Full Stack Developer at Vixting since October 2020. I am having the opportunity to work with the following technologies:
+- JavaScript
+- Node.js with Express and Sequelize ORM
+- ReactJS
+- Jest
+- AWS - SES, S3, SQS
+
+And the opportunity to develop soft and leadership skills:
+- Problem solving
+- Demand prioritization
+- Tasks division
+- Review of pull requests and Deploy
 <hr>
 
 ## 📖 And what am I learning?
-- Web Development: I completed, on July, the GoStack Bootcamp of Rocketseat. We use NodeJS, ReactJS, and React Native and them whole ecosystem, from zero to deployment. And I am almost completing CS50x of Harvard University, that covers concepts like abstraction, algorithms, data structures, encapsulation, resource management, security, and software engineering, using various languages, including C, Python, SQL, and JavaScript. Besides that, I am currently studyig Profissional DevOps of IGTI. A Bootcamp that approaches most used fundamental concepts, practices, and tools in DevOps movement.
-- Production Engineering: I am in the last semester of graduation at ETEP Faculdades in São José dos Campos, SP.
+- Now my focus is on boosting my career so that my work is more and more impactful in the projects I am participating in. About technologies, I'm current learning:
+- GraphQL
+- MongoDB
+- The main services of AWS - EC2, S3, SES, etc.
+
+And about studies, I am participating of the [Ignite Bootcamp](https://help.rocketseat.com.br/hc/pt-br/sections/1500000466461-Ignite) from Rocketseat.
 <hr>
 
 ## 📞 How to reach me?
