@@ -28,7 +28,7 @@ And the opportunity to develop soft and leadership skills:
 - MongoDB
 - The main services of AWS - EC2, S3, SES, etc.
 
-And about studies, I am participating of the [Ignite Bootcamp](https://help.rocketseat.com.br/hc/pt-br/sections/1500000466461-Ignite) from Rocketseat.
+And about studies, I am participating of the [Ignite Bootcamp](https://pages.rocketseat.com.br/ignite) from Rocketseat.
 <hr>
 
 ## 📞 How to reach me?
