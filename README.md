@@ -1,34 +1,63 @@
 <div align="center">
-  <img width="auto" src="https://github.com/felipejsborges/felipejsborges/blob/master/assets/intro.jpg">
-  <h1>Felipe Borges</h1>	
+  <img width="500px" src="https://github.com/felipejsborges/felipejsborges/blob/master/assets/intro.jpg">
+  <h1 style="font-size: 2em;">Felipe Borges</h1>
+	<img alt="GitHub followers" src="https://img.shields.io/github/followers/felipejsborges?style=social" />
+	<img alt="GitHub stars" src="https://img.shields.io/github/stars/felipejsborges?style=social" />
 </div>
 
+## Summary
+
+- [👨‍💻 Who am I?](#-who-am-i)
+
+- [💼 What am I currently working on?](#-what-am-i-currently-working-on)
+
+- [📖 And what am I learning?](#-and-what-am-i-learning)
+
+- [📞 How to reach me?](#-how-to-reach-me)
+
+<hr>
+
 ## 👨‍💻 Who am I?
-A computer science, technology, games, movies, series, books and music lover.
+A 26 years old Software Engineer from Brazil. I have been working with software engineering/development since 2020. I am passionate about technology and I am always looking for new challenges and opportunities to learn and grow professionally.
 <hr>
 
 ## 💼 What am I currently working on?
-As a Full Stack Developer at Vixting since October 2020. I am having the opportunity to work with the following technologies:
-- JavaScript
-- Node.js with Express and Sequelize ORM
-- ReactJS
-- Jest
-- AWS - SES, S3, SQS
 
-And the opportunity to develop soft and leadership skills:
-- Problem solving
-- Demand prioritization
-- Tasks division
-- Review of pull requests and Deploy
+In my current role as Technical Lead, I am responsible for ideating, analyzing requirements, and defining architecture for innovative solutions. Additionally, I am responsible for developing, testing, and maintaining scalable and performative software that runs in the cloud. I'm also responsible for mentoring and coaching other developers. The technologies I'm currently working with are:
+
+- Javascript / Typescript (3+ years)
+- Node.js (3+)
+- ReactJS (3+)
+- Terraform (2+)
+- Azure (2+)
+- Microservices (2+)
+- Python (2+)
+- SQL Server (2+)
+- Azure DevOps / Azure Pipelines (2+)
+
+And I also have experience with the following technologies:
+
+- React Native (2+)
+- MySQL (1+)
+- MongoDB (1+)
+- GraphQL (1+)
+- Docker (1+)
+- Kubernetes (1+)
+- Kafka (1+)
+- AWS (1+)
+- GCP (1+)
+- Spark/PySpark (1+)
+
 <hr>
 
 ## 📖 And what am I learning?
-- Now my focus is on boosting my career so that my work is more and more impactful in the projects I am participating in. About technologies, I'm current learning:
-- GraphQL
-- MongoDB
-- The main services of AWS - EC2, S3, SES, etc.
 
-And about studies, I am participating of the [Ignite Bootcamp](https://pages.rocketseat.com.br/ignite) from Rocketseat.
+- Reviewing and improving my knowledge in Node.js and ReactJS
+- Learning more about and practicing API Rest with Python
+- Learning more about and practicing Next.js
+- Learning more about and practicing Kafka, Kubernetes, AWS, Terraform
+- Learning about GitHub Actions
+
 <hr>
 
 ## 📞 How to reach me?
@@ -49,9 +78,4 @@ And about studies, I am participating of the [Ignite Bootcamp](https://pages.roc
 	<img width="32px" src="https://github.com/felipejsborges/felipejsborges/blob/master/assets/mail.svg" alt="E-mail">
 </a>
 
-<!-- Pendencies
-- [ ] - Add badges
-- [ ] - Add a Summary
-- [ ] - I’m looking to collaborate on...
-- [ ] - I’m looking for help with...
--->
+
