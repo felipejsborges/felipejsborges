@@ -52,11 +52,12 @@ And I also have experience with the following technologies:
 
 ## 📖 And what am I learning?
 
-- Reviewing and improving my knowledge in Node.js and ReactJS
-- Learning more about and practicing API Rest with Python
-- Learning more about and practicing Next.js
-- Learning more about and practicing Kafka, Kubernetes, AWS, Terraform
-- Learning about GitHub Actions
+- Reviewing and improving my knowledge about Design Patterns
+- Reviewing and improving my knowledge about Software Architeture
+- Learning and practicing Django with Django REST Framework
+- Learning and practicing Vue.js
+- Learning and practicing AWS and Terraform
+- Learning and practicing GitHub Actions
 
 <hr>
 
